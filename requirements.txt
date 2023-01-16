@@ -1,0 +1,7 @@
+numpy 
+opencv-contrib-python
+depthai 
+Cython
+pyads
+dynamixel-sdk
+psutil
